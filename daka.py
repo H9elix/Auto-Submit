@@ -27,7 +27,7 @@ def daka(stu_id,name,receiver):
         "jsonname": name,
         "jsonclass": "2020级硕士研究生中队",
         "morning": "36.4℃",
-        "afternoon": "36.2℃",
+        "afternoon": "36.3℃",
         "night": "36.3℃",
         "jsonbody": 1,
         "jsonbodychangeinfo": "",
