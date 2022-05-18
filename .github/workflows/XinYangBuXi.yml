@@ -8,7 +8,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron: "51 7 * * *"  # UTC 时间每天0点        
+    - cron: "55 7 * * *"  # UTC 时间每天0点        
 
 jobs:
   XinYangBuXi:
