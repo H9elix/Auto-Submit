@@ -37,8 +37,10 @@ def daka(stu_id,name,receiver):
         "jsontouchchangeinfo": 0,
         "jsonisolate": 1,
         "jsonisolatechangeinfo": 0,
-        "latitude": 38.86993859151438,
-        "longitude": 121.52768338098292, 
+        # "latitude": 38.86993859151438,
+        # "longitude": 121.52768338098292, 
+        "latitude": 38.867714,
+        "longitude": 116.397128,
     }
     url = 'https://www.informationofdum.com/DMU_WEB/student_5/info/?'
     url += urlencode(data)
