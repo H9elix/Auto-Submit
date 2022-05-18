@@ -47,7 +47,7 @@ def daka(stu_id,name,receiver):
     response = requests.get(url,headers=headers)
     print(response)
     print(response.text)
-    time.sleep(random.randint(0,180))  # 避免大家同时请求邮件服务器
+    # time.sleep(random.randint(0,180))  # 避免大家同时请求邮件服务器
     if len(receiver) != 0:
         mail_to(receiver, f"{name}=>{stu_id}=>信仰不息=>打卡成功！", str(response) + '\n' + response.text)
 
