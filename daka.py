@@ -31,14 +31,14 @@ def daka(stu_id,name,receiver):
         "night": "36.3℃",
         "jsonbody": 1,
         "jsonbodychangeinfo": "",
-        "textarea": "在校",
-        "textprople": "同学",
+        "textarea": "在家",
+        "textprople": "父母",
         "jsontouch": 1,
         "jsontouchchangeinfo": 0,
         "jsonisolate": 1,
         "jsonisolatechangeinfo": 0,
-        # "latitude": 38.86993859151438,
-        # "longitude": 121.52768338098292, 
+        # "latitude": 32.188477,
+        # "longitude": 115.662718, 
         "latitude": 38.867714,  # 电航楼
         "longitude": 121.525238,
     }
